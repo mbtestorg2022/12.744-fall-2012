@@ -8,11 +8,85 @@ So far the emphasis has been on the radioactive isotopes and what they tell us a
 
 [Readings](#readings) are listed below the table. Lecture notes are provided by [WHOI](http://www.whoi.edu/) and link away from OCW.
 
-| SES # | TOPICS | SUMMARIES | SLIDES |
-| --- | --- | --- | --- |
-| 13 & 14 | Isotope Measurements | Since you need to understand the limits and character of your data in order to use it effectively, we spend the next two lectures discussing isotope ratio measurements. The tool of choice for these measurements is the mass spectrometer, so we concentrate on the mechanics of how these instruments work. This involves a discussion of the underlying principles of mass spectrometry and a broad survey of the various types of mass spectrometers, ranging from "traditional" stable isotope mass spectrometers through ICPMS and AMS systems. We investigate some of the analytical challenges involved in the various methods. The isotope dilution methodology and mathematics are explored. Then we discuss some basic concepts of data treatment and review error propagation one more time. Finally, we explore how half-lives can be determined using mass spectrometers. |  {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 13 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=135444&pt=2&p=146969) {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 14 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=135884&pt=2&p=146969) {{< br >}}{{< br >}}  |
-| 15 & 16 | Isotope Fractionation Systematics | Here we learn about the underlying physical principles about isotope fractionation, the basic mathematics and calculations, and some of the generalities associated with using stable isotopes as probes of biogeochemical processes. We finish by exploring mass independent isotope fractionation. |  {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 15 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=136144&pt=2&p=146969) {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 16 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=137304&pt=2&p=146969) {{< br >}}{{< br >}}  |
-| 17 | Problem Session 3 | Dealing with the Rayleigh equation.  {{< br >}}G‐IG seawater δ18O (Emiliani vs. Shackleton) |  [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit12_744f12_prob_set3) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SUMMARIES
+{{< thclose >}}
+{{< thopen >}}
+SLIDES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13 & 14
+{{< tdclose >}}
+{{< tdopen >}}
+Isotope Measurements
+{{< tdclose >}}
+{{< tdopen >}}
+Since you need to understand the limits and character of your data in order to use it effectively, we spend the next two lectures discussing isotope ratio measurements. The tool of choice for these measurements is the mass spectrometer, so we concentrate on the mechanics of how these instruments work. This involves a discussion of the underlying principles of mass spectrometry and a broad survey of the various types of mass spectrometers, ranging from "traditional" stable isotope mass spectrometers through ICPMS and AMS systems. We investigate some of the analytical challenges involved in the various methods. The isotope dilution methodology and mathematics are explored. Then we discuss some basic concepts of data treatment and review error propagation one more time. Finally, we explore how half-lives can be determined using mass spectrometers.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 13 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=135444&pt=2&p=146969)
+
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 14 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=135884&pt=2&p=146969)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15 & 16
+{{< tdclose >}}
+{{< tdopen >}}
+Isotope Fractionation Systematics
+{{< tdclose >}}
+{{< tdopen >}}
+Here we learn about the underlying physical principles about isotope fractionation, the basic mathematics and calculations, and some of the generalities associated with using stable isotopes as probes of biogeochemical processes. We finish by exploring mass independent isotope fractionation.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 15 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=136144&pt=2&p=146969)
+
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 16 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=137304&pt=2&p=146969)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Session 3
+{{< tdclose >}}
+{{< tdopen >}}
+Dealing with the Rayleigh equation.  
+G‐IG seawater δ18O (Emiliani vs. Shackleton)
+{{< tdclose >}}
+{{< tdopen >}}
+ [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit12_744f12_prob_set3)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "readings" >}}{{< /anchor >}}Readings
 ------------------------------------------------

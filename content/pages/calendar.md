@@ -4,35 +4,525 @@ title: Calendar
 uid: f907cd2c-4af6-ac83-5916-62c5ec582209
 ---
 
-| SES # | TOPICS | SUBTOPICS | INSTRUCTORS | KEY DATES |
-| --- | --- | --- | --- | --- |
-| {{< td-colspan 5 >}}**Nuclear Systematics**{{< /td-colspan >}} |||||
-| 1 | The Basics | Nuclear (in)stability, isotopes, particles, forces, cosmic abundances | Bill Jenkins | &nbsp; |
-| 2 | Nucleosynthesis | Primordial, galactic, stellar evolution and nucleosynthesis (r, s, p processes) | Bill Jenkins | &nbsp; |
-| 3 | Radioactive Decay | Mechanisms, systematics, measurement, statistics | Bernhard Peucker-Ehrenbrink | &nbsp; |
-| 4 | Radiometric Dating I | Extinct, simple, parent-daughter, secular (dis)equilibrium and equations | Bernhard Peucker-Ehrenbrink | &nbsp; |
-| 5 | Radiometric Dating II | Open/closed systems, isochrons (IsoPlot), modeling | Bernhard Peucker-Ehrenbrink | &nbsp; |
-| 6 | Problem-Solving Session 1 | A tutorial on problem solving (basic skills) including dimensional analysis | Bernhard Peucker-Ehrenbrink | Problem set 1 assigned |
-| {{< td-colspan 5 >}}**Earth Formation and Evolution**{{< /td-colspan >}} |||||
-| 7 | Solar System and Planetary Formation | Concepts, isotopic constraints on timing and processes, core and moon formation | Bernhard Peucker-Ehrenbrink | &nbsp; |
-| 8 | Earth Structure and Evolution | Compatibility, melting, parent-daughter fractionation, formation of reservoirs, heat flow geoneutrinos | Bill Jenkins | &nbsp; |
-| 9 | Atmosphere/Ocean Formation | Noble gases (including 3He) and isotopes (degassing), hydrodynamic escape | Bill Jenkins | &nbsp; |
-| 10 | Cosmogenic Isotopes I | Exposure dating, 10Be, 26Al, 36Cl theory, models, and practice | Bill Jenkins | Problem set 1 due |
-| 11 | Cosmogenic Isotopes II | 14C (carbon cycle, paleo) | Bill Jenkins | &nbsp; |
-| 12 | Problem-Solving Session 2 | A tutorial on model building (box-models), radiocarbon and the carbon cycle | Bill Jenkins |  Problem set 2 assigned |
-| {{< td-colspan 5 >}}**Stable Isotopes**{{< /td-colspan >}} |||||
-| 13 | Mass Spectrometry I | Measurement principles and methodology limitations, statistics, error propagation, isotope dilution | Bill Jenkins | &nbsp; |
-| 14 | Mass Spectrometry II | Measurement principles and methodology limitations, statistics, error propagation, isotope dilution (cont.) | Bill Jenkins | &nbsp; |
-| 15 | Isotope Fractionation I | Theoretical basis: harmonic oscillator model, reduced mass (effusion vs. diffusion), systematics | Bill Jenkins | &nbsp; |
-| 16 | Isotope Fractionation II | Kinetic vs. Equilibrium fractionation, inverse isotope effects, mass-independent fractionation | Bill Jenkins | Problem set 2 due |
-| 17 | Problem-Solving Session 3 | Dealing with Rayleigh equation; G-IG seawater δ18O (Emiliani vs. Shackleton) | Bernhard Peucker-Ehrenbrink | Problem set 3 assigned |
-| {{< td-colspan 5 >}}**Ocean Applications**{{< /td-colspan >}} |||||
-| 18 | Mass-Independent Fractionation | S-isotopes and early atmosphere oxygenation, O-isotopes and primary production | Bernhard Peucker-Ehrenbrink | &nbsp; |
-| 19 | Clumped Isotopes | Concepts, theory, and application, long term seawater changes in δ18O | Bernhard Peucker-Ehrenbrink | &nbsp; |
-| 20 | Water Column I | Particle scavenging, one-dimensional advection-diffusion models, Ra in circulation, subterranean estuaries | Bernhard Peucker-Ehrenbrink | &nbsp; |
-| 21 | Problem-Solving Session 4 | Using one-dimensional advection-diffusion models to estimate deep ocean rates | Bill Jenkins |  {{< br >}}{{< br >}} Problem set 3 due {{< br >}}{{< br >}} Problem set 4 assigned {{< br >}}{{< br >}}  |
-| 22 | Water Column II | Sedimentary processes: sediment focusing (Th-Pa, He), chronology | Bernhard Peucker-Ehrenbrink | &nbsp; |
-| 23 | Water Column III | Long term elements budgets (Sr, Nd, Li, He isotopes) | Bernhard Peucker-Ehrenbrink | &nbsp; |
-| 24 | Water Column IV | Redox processes, metal isotopes, and sediment-sea exchange | Bernhard Peucker-Ehrenbrink | &nbsp; |
-| 25 | Water Column V | Air-sea exchange (222Rn, 14C, 3He) | Bill Jenkins | Problem set 4 due |
-| 26 | Final Exam | &nbsp; | Final exam
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SUBTOPICS
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTORS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Nuclear Systematics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The Basics
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear (in)stability, isotopes, particles, forces, cosmic abundances
+{{< tdclose >}}
+{{< tdopen >}}
+Bill Jenkins
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Nucleosynthesis
+{{< tdclose >}}
+{{< tdopen >}}
+Primordial, galactic, stellar evolution and nucleosynthesis (r, s, p processes)
+{{< tdclose >}}
+{{< tdopen >}}
+Bill Jenkins
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Radioactive Decay
+{{< tdclose >}}
+{{< tdopen >}}
+Mechanisms, systematics, measurement, statistics
+{{< tdclose >}}
+{{< tdopen >}}
+Bernhard Peucker-Ehrenbrink
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Radiometric Dating I
+{{< tdclose >}}
+{{< tdopen >}}
+Extinct, simple, parent-daughter, secular (dis)equilibrium and equations
+{{< tdclose >}}
+{{< tdopen >}}
+Bernhard Peucker-Ehrenbrink
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Radiometric Dating II
+{{< tdclose >}}
+{{< tdopen >}}
+Open/closed systems, isochrons (IsoPlot), modeling
+{{< tdclose >}}
+{{< tdopen >}}
+Bernhard Peucker-Ehrenbrink
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Problem-Solving Session 1
+{{< tdclose >}}
+{{< tdopen >}}
+A tutorial on problem solving (basic skills) including dimensional analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Bernhard Peucker-Ehrenbrink
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Earth Formation and Evolution**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Solar System and Planetary Formation
+{{< tdclose >}}
+{{< tdopen >}}
+Concepts, isotopic constraints on timing and processes, core and moon formation
+{{< tdclose >}}
+{{< tdopen >}}
+Bernhard Peucker-Ehrenbrink
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Earth Structure and Evolution
+{{< tdclose >}}
+{{< tdopen >}}
+Compatibility, melting, parent-daughter fractionation, formation of reservoirs, heat flow geoneutrinos
+{{< tdclose >}}
+{{< tdopen >}}
+Bill Jenkins
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Atmosphere/Ocean Formation
+{{< tdclose >}}
+{{< tdopen >}}
+Noble gases (including 3He) and isotopes (degassing), hydrodynamic escape
+{{< tdclose >}}
+{{< tdopen >}}
+Bill Jenkins
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Cosmogenic Isotopes I
+{{< tdclose >}}
+{{< tdopen >}}
+Exposure dating, 10Be, 26Al, 36Cl theory, models, and practice
+{{< tdclose >}}
+{{< tdopen >}}
+Bill Jenkins
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Cosmogenic Isotopes II
+{{< tdclose >}}
+{{< tdopen >}}
+14C (carbon cycle, paleo)
+{{< tdclose >}}
+{{< tdopen >}}
+Bill Jenkins
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Problem-Solving Session 2
+{{< tdclose >}}
+{{< tdopen >}}
+A tutorial on model building (box-models), radiocarbon and the carbon cycle
+{{< tdclose >}}
+{{< tdopen >}}
+Bill Jenkins
+{{< tdclose >}}
+{{< tdopen >}}
+ Problem set 2 assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Stable Isotopes**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Mass Spectrometry I
+{{< tdclose >}}
+{{< tdopen >}}
+Measurement principles and methodology limitations, statistics, error propagation, isotope dilution
+{{< tdclose >}}
+{{< tdopen >}}
+Bill Jenkins
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Mass Spectrometry II
+{{< tdclose >}}
+{{< tdopen >}}
+Measurement principles and methodology limitations, statistics, error propagation, isotope dilution (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Bill Jenkins
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Isotope Fractionation I
+{{< tdclose >}}
+{{< tdopen >}}
+Theoretical basis: harmonic oscillator model, reduced mass (effusion vs. diffusion), systematics
+{{< tdclose >}}
+{{< tdopen >}}
+Bill Jenkins
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Isotope Fractionation II
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetic vs. Equilibrium fractionation, inverse isotope effects, mass-independent fractionation
+{{< tdclose >}}
+{{< tdopen >}}
+Bill Jenkins
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Problem-Solving Session 3
+{{< tdclose >}}
+{{< tdopen >}}
+Dealing with Rayleigh equation; G-IG seawater δ18O (Emiliani vs. Shackleton)
+{{< tdclose >}}
+{{< tdopen >}}
+Bernhard Peucker-Ehrenbrink
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Ocean Applications**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Mass-Independent Fractionation
+{{< tdclose >}}
+{{< tdopen >}}
+S-isotopes and early atmosphere oxygenation, O-isotopes and primary production
+{{< tdclose >}}
+{{< tdopen >}}
+Bernhard Peucker-Ehrenbrink
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Clumped Isotopes
+{{< tdclose >}}
+{{< tdopen >}}
+Concepts, theory, and application, long term seawater changes in δ18O
+{{< tdclose >}}
+{{< tdopen >}}
+Bernhard Peucker-Ehrenbrink
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Water Column I
+{{< tdclose >}}
+{{< tdopen >}}
+Particle scavenging, one-dimensional advection-diffusion models, Ra in circulation, subterranean estuaries
+{{< tdclose >}}
+{{< tdopen >}}
+Bernhard Peucker-Ehrenbrink
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Problem-Solving Session 4
+{{< tdclose >}}
+{{< tdopen >}}
+Using one-dimensional advection-diffusion models to estimate deep ocean rates
+{{< tdclose >}}
+{{< tdopen >}}
+Bill Jenkins
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 3 due
+
+Problem set 4 assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Water Column II
+{{< tdclose >}}
+{{< tdopen >}}
+Sedimentary processes: sediment focusing (Th-Pa, He), chronology
+{{< tdclose >}}
+{{< tdopen >}}
+Bernhard Peucker-Ehrenbrink
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Water Column III
+{{< tdclose >}}
+{{< tdopen >}}
+Long term elements budgets (Sr, Nd, Li, He isotopes)
+{{< tdclose >}}
+{{< tdopen >}}
+Bernhard Peucker-Ehrenbrink
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Water Column IV
+{{< tdclose >}}
+{{< tdopen >}}
+Redox processes, metal isotopes, and sediment-sea exchange
+{{< tdclose >}}
+{{< tdopen >}}
+Bernhard Peucker-Ehrenbrink
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Water Column V
+{{< tdclose >}}
+{{< tdopen >}}
+Air-sea exchange (222Rn, 14C, 3He)
+{{< tdclose >}}
+{{< tdopen >}}
+Bill Jenkins
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

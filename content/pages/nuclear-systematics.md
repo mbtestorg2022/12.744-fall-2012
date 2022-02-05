@@ -8,14 +8,135 @@ This section of the course is intended to give the student a firm understanding 
 
 [Readings](#Readings) and [related links](#Links) are listed below the table. Lecture notes are provided by [WHOI](http://www.whoi.edu/) and link away from OCW. Select lecture slides are available.
 
-| SES # | TOPICS | SUMMARIES | SLIDES |
-| --- | --- | --- | --- |
-| 1 | The Basics | Our starting point is to examine the cosmic abundance of the elements. From this, we embark on a quest to understand the factors underlying the stability of elements and isotopes, and the relation to their cosmic abundances. This also leads to a foundation for explaining the origin of the elements and isotopes (nucleosynthesis). We will outline the nature and relationship of the four fundamental forces, discussing the relativistic and quantum-mechanical principles underlying our understanding of the universe and the factors controlling nuclear stability. We will also briefly discuss the modes of radioactive decay (more on that in Lecture 3). | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 1 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=129084&pt=2&p=146929) |
-| 2 | Nucleosynthesis | We aim to understand how the elements and isotopes came to be, within the context of the principles presented in Lecture 1, and how these processes are reflected in the cosmic abundance of the elements and isotopes. We start on a wonderful journey that begins with the big bang (primordial nucleosynthesis), follows through galactic evolution (generations of stars and galactic nucleosynthesis), and arrives at the amazing processes of stellar evolution and nucleosynthesis. We describe how our detailed knowledge of this incredible story is woven into the chart of the nuclides (isotopes) and outline the various nucleosynthetic pathways that lead to very stuff that we (and the earth) are made of. | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 2 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=129404&pt=2&p=146929) |
-| 3 | Radioactive Decay | The learning goals for this lecture are the derivation of the isochron equation (simple decay), a basic understanding of how radioactive decay can be used as a dating tool (isochron diagram), and an understanding of some of the pitfalls involved in dating (confusion with mixing lines). We will also cover a special case where two decay systems of a single element leads to two stable isotopes of the same element (238U to 206Pb, 235U to 207Pb), and how these systematics can be used in an isochron diagram (Geochron, growth curves). |  {{< br >}}{{< br >}} [Lecture 3 Slides (PDF)]({{< baseurl >}}/resources/mit12_744f12_lec3) {{< br >}}{{< br >}} [Lecture 3 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=129664&pt=2&p=146929) {{< br >}}{{< br >}}  |
-| 4 | Radioactive Decay Series | The learning goals for this lecture are to understand the more complex decay schemes that involve a series of coupled decays—so-called "decay series"—the concept of secular equilibrium and disequilibrium, and how decay series can be used to constrain dates in closed vs. open systems. We will introduce the Bateman equations and different equilibrium/disequilibrium diagrams that show the versatility and complexity of decay series dating. The very different half-lives of the nuclides involved imply very different nuclide concentrations at secular equilibrium. As the number of atoms available for analyses strongly influences analytical precision, we will also discuss analytical options (counting vs. mass spectrometry) and their influence of analytical precision. |  {{< br >}}{{< br >}} [Lecture 4 Slides (PDF - 1.3MB)]({{< baseurl >}}/resources/mit12_744f12_lec4) {{< br >}}{{< br >}} [Lecture 4 Notes (PDF - 2.6MB)](http://www.whoi.edu/fileserver.do?id=130124&pt=2&p=146929) {{< br >}}{{< br >}}  |
-| 5 | Radioactive Decay - Extinct Radionuclides | We will review simple decay and decay series systematics as an introduction into "extinct radionuclides." The learning goals for this lecture are an understanding of the utility of nuclear reactions that involve nuclides with such short half-lives that they do not exist anymore (unless newly produced by nuclear reactions) on Earth. Such nuclides provide the foundation for relative dating of processes during the dawn of the Solar System. These systematics will provide the basis for the next lecture(s) on the evolution of the Solar System and our home planet. |  {{< br >}}{{< br >}} [Lecture 5 Slides (PDF)]({{< baseurl >}}/resources/mit12_744f12_lec5) {{< br >}}{{< br >}} [Lecture 5 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=130664&pt=2&p=146929) {{< br >}}{{< br >}}  |
-| 6 | Problem-Solving Session 1 | We start solving the first problem of Problem Set 1 in class, using strategies for solving problems e.g. carefully reading questions, graphical representation of concepts, simplifying equations, significant figures and uncertainties, dimensional analysis, etc. | [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit12_744f12_prob_set1) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SUMMARIES
+{{< thclose >}}
+{{< thopen >}}
+SLIDES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The Basics
+{{< tdclose >}}
+{{< tdopen >}}
+Our starting point is to examine the cosmic abundance of the elements. From this, we embark on a quest to understand the factors underlying the stability of elements and isotopes, and the relation to their cosmic abundances. This also leads to a foundation for explaining the origin of the elements and isotopes (nucleosynthesis). We will outline the nature and relationship of the four fundamental forces, discussing the relativistic and quantum-mechanical principles underlying our understanding of the universe and the factors controlling nuclear stability. We will also briefly discuss the modes of radioactive decay (more on that in Lecture 3).
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 1 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=129084&pt=2&p=146929)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Nucleosynthesis
+{{< tdclose >}}
+{{< tdopen >}}
+We aim to understand how the elements and isotopes came to be, within the context of the principles presented in Lecture 1, and how these processes are reflected in the cosmic abundance of the elements and isotopes. We start on a wonderful journey that begins with the big bang (primordial nucleosynthesis), follows through galactic evolution (generations of stars and galactic nucleosynthesis), and arrives at the amazing processes of stellar evolution and nucleosynthesis. We describe how our detailed knowledge of this incredible story is woven into the chart of the nuclides (isotopes) and outline the various nucleosynthetic pathways that lead to very stuff that we (and the earth) are made of.
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 2 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=129404&pt=2&p=146929)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Radioactive Decay
+{{< tdclose >}}
+{{< tdopen >}}
+The learning goals for this lecture are the derivation of the isochron equation (simple decay), a basic understanding of how radioactive decay can be used as a dating tool (isochron diagram), and an understanding of some of the pitfalls involved in dating (confusion with mixing lines). We will also cover a special case where two decay systems of a single element leads to two stable isotopes of the same element (238U to 206Pb, 235U to 207Pb), and how these systematics can be used in an isochron diagram (Geochron, growth curves).
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture 3 Slides (PDF)]({{< baseurl >}}/resources/mit12_744f12_lec3)
+
+[Lecture 3 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=129664&pt=2&p=146929)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Radioactive Decay Series
+{{< tdclose >}}
+{{< tdopen >}}
+The learning goals for this lecture are to understand the more complex decay schemes that involve a series of coupled decays—so-called "decay series"—the concept of secular equilibrium and disequilibrium, and how decay series can be used to constrain dates in closed vs. open systems. We will introduce the Bateman equations and different equilibrium/disequilibrium diagrams that show the versatility and complexity of decay series dating. The very different half-lives of the nuclides involved imply very different nuclide concentrations at secular equilibrium. As the number of atoms available for analyses strongly influences analytical precision, we will also discuss analytical options (counting vs. mass spectrometry) and their influence of analytical precision.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture 4 Slides (PDF - 1.3MB)]({{< baseurl >}}/resources/mit12_744f12_lec4)
+
+[Lecture 4 Notes (PDF - 2.6MB)](http://www.whoi.edu/fileserver.do?id=130124&pt=2&p=146929)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Radioactive Decay - Extinct Radionuclides
+{{< tdclose >}}
+{{< tdopen >}}
+We will review simple decay and decay series systematics as an introduction into "extinct radionuclides." The learning goals for this lecture are an understanding of the utility of nuclear reactions that involve nuclides with such short half-lives that they do not exist anymore (unless newly produced by nuclear reactions) on Earth. Such nuclides provide the foundation for relative dating of processes during the dawn of the Solar System. These systematics will provide the basis for the next lecture(s) on the evolution of the Solar System and our home planet.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture 5 Slides (PDF)]({{< baseurl >}}/resources/mit12_744f12_lec5)
+
+[Lecture 5 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=130664&pt=2&p=146929)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Problem-Solving Session 1
+{{< tdclose >}}
+{{< tdopen >}}
+We start solving the first problem of Problem Set 1 in class, using strategies for solving problems e.g. carefully reading questions, graphical representation of concepts, simplifying equations, significant figures and uncertainties, dimensional analysis, etc.
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit12_744f12_prob_set1)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Readings" >}}{{< /anchor >}}Readings
 ------------------------------------------------
