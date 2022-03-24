@@ -40,9 +40,9 @@ Since you need to understand the limits and character of your data in order to u
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 13 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=135444&pt=2&p=146969)
+[Lecture 13 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=135444&pt=2&p=146969)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 14 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=135884&pt=2&p=146969)
+[Lecture 14 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=135884&pt=2&p=146969)
 
 
 {{< tdclose >}}
@@ -61,9 +61,9 @@ Here we learn about the underlying physical principles about isotope fractionati
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 15 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=136144&pt=2&p=146969)
+[Lecture 15 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=136144&pt=2&p=146969)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 16 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=137304&pt=2&p=146969)
+[Lecture 16 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=137304&pt=2&p=146969)
 
 
 {{< tdclose >}}

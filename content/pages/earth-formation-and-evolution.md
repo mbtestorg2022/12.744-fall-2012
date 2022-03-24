@@ -59,7 +59,7 @@ Earth Structure and Evolution
 Given the timing and nature of the formation of the earth/moon system (especially using extinct radioactivities), we now effects of heat-producing radionuclides on the earth's evolution and structure (including mantle structure, seafloor spreading, and continent formation), and the more recent constraints on the earth's composition afforded by isotopes and geoneutrinos. We will learn about parent-daughter fractionation associated with geochemical processes (e.g., melting, metasomatism, crystallization). Finally, we explore how isotopes have shed light on the existence of natural nuclear reactors in the past.
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 8 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=132104&pt=2&p=146949)
+[Lecture 8 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=132104&pt=2&p=146949)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +74,7 @@ Atmosphere-Ocean Formation
 The formation of the oceans and atmosphere likely occurred early in the earth's history. We discuss the isotopic evidence for the timing of these events and on how isotope patterns are reflecting current earth structure, the relationship between the earth and other planets, and possible ongoing terrestrial degassing. We also investigate the fact that for some gas isotopes, the atmosphere is not a closed system, but is still evolving on the mega- to giga-year time-scales.
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 9 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=132884&pt=2&p=146949)
+[Lecture 9 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=132884&pt=2&p=146949)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +89,7 @@ Cosmogenic Isotopes I
 The earth has in the past been, and continues to be, bombarded with high-energy cosmic rays. These cosmic rays interact with the atmosphere and surface earth to produce isotopes that in turn prove useful for constraining processes occurring on or near the earth's surface. We explore the nature of these isotope systems and their application to studying recent and current earth processes.
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 10 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=133844&pt=2&p=146949)
+[Lecture 10 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=133844&pt=2&p=146949)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +104,7 @@ Cosmogenic Isotopes II
 One cosmogenic isotope, radiocarbon, holds a special place in isotope geochemistry. Knowing its past abundance in the atmosphere in the ocean is key to (a) establishing chronology over the past ~50,000 years (radiocarbon dating), (b) understanding past changes in cosmogenic production rates, and (c) diagnosing recent past changes in the carbon cycle. We explore all these three aspects in considerable detail here.
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 11 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=134225&pt=2&p=146949)
+[Lecture 11 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=134225&pt=2&p=146949)
 {{< tdclose >}}
 
 {{< trclose >}}
