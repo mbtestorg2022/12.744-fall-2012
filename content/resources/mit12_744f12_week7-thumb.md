@@ -10,6 +10,7 @@ image_metadata:
     of isotope geochemistry during recitations for 12.744 Marine Isotope Chemistry.
   credit: Images by Kyrstin Fornace.
   image-alt: Cartoons of dinosaurs which cleverly illustrate concepts of isotope geochemistry.
+parent_uid: 9849d04f-e28c-79da-c42b-53e91c92073c
 resourcetype: Image
 title: MIT12_744F12_Week7-thumb.jpg
 uid: f4968981-018f-0e0a-c0df-5248f893d37a
